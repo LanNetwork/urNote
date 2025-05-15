@@ -1,4 +1,4 @@
-# urnote
+# urNote
 a Do list app, note app, and calendar app.
 
 This is the beginning of the urNote app. Hello!
